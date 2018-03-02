@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Anton|Barlow:400,700,700i');
+
+h1 {
+    font-family: 'Anton', sans-serif;
+}
+
+body{
+    font-family: 'Barlow', sans-serif;
+    background: rgb(96, 96, 177);
+}
+
+.jumbotron {
+    background-image: url(http://lorempixel.com/1200/500/abstract/);
+}
